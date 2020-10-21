@@ -476,7 +476,7 @@ footer{
   @media screen and (max-width: 600px){
     body{
       font-family: 'Roboto', sans-serif;
-      background-image: url(../images/6.jpg);
+      background-image: url(images/6.jpg);
       background-attachment: fixed;
       background-position: center;
       background-size: cover;
